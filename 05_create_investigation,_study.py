@@ -152,5 +152,5 @@ session.close()
 
 *  Run the notebook using the user you created in the previous step
 *  Update the attributes, and change the titles for the Investigation, Study and Assay.
-*  Comment out the 3 delete steps at the end, and make a note of the resulting Assay ID. Check at https://sandbox3.fairdomhub.org that it exists.
+*  Comment out the 3 delete steps at the end, and make a note of the resulting Assay ID. Check at https://sandbox3.fairdomhub.org/assays that it exists.
 """
